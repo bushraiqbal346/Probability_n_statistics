@@ -1,0 +1,64 @@
+{
+  "build": "h56d5a42_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc14_runtime >=14.29.30133",
+    "vc >=14.2,<15",
+    "libtiff >=4.7.0,<5.0a0",
+    "lcms2 >=2.16,<3.0a0",
+    "zlib >=1.2.13,<2.0a0",
+    "libopenjpeg 2.5.4 h02ab6af_0",
+    "libpng >=1.6.50,<1.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_0",
+  "files": [
+    "Library/bin/opj_compress.exe",
+    "Library/bin/opj_decompress.exe",
+    "Library/bin/opj_dump.exe"
+  ],
+  "fn": "openjpeg-2.5.4-h56d5a42_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Dell\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_0",
+    "type": 1
+  },
+  "md5": "f1e86eeab794813d6299af42caaf9ba3",
+  "name": "openjpeg",
+  "package_tarball_full_path": "C:\\Users\\Dell\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/opj_compress.exe",
+        "path_type": "hardlink",
+        "sha256": "0e8996871b79993b95ba3ecd0432c371c804ed703e22b536db5952cda29543e0",
+        "sha256_in_prefix": "0e8996871b79993b95ba3ecd0432c371c804ed703e22b536db5952cda29543e0",
+        "size_in_bytes": 94536
+      },
+      {
+        "_path": "Library/bin/opj_decompress.exe",
+        "path_type": "hardlink",
+        "sha256": "f5af7fb688a0e4574963464ab1f6dc894625de696c05270e8134e0497fe45ae7",
+        "sha256_in_prefix": "f5af7fb688a0e4574963464ab1f6dc894625de696c05270e8134e0497fe45ae7",
+        "size_in_bytes": 85832
+      },
+      {
+        "_path": "Library/bin/opj_dump.exe",
+        "path_type": "hardlink",
+        "sha256": "c78390287f6dc9b929094269a9699db903302b574b7b2263f92ce1e258b4e678",
+        "sha256_in_prefix": "c78390287f6dc9b929094269a9699db903302b574b7b2263f92ce1e258b4e678",
+        "size_in_bytes": 37192
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d5bb1aef7e2bb0e293575915b66ec20265b744e4a13151a1bddc0e689c035216",
+  "size": 98366,
+  "subdir": "win-64",
+  "timestamp": 1761153178000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/openjpeg-2.5.4-h56d5a42_0.conda",
+  "version": "2.5.4"
+}
